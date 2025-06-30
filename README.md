@@ -50,7 +50,7 @@ caesar_cipher_web/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-web.git
+git clone https://github.com/letchagan/SCT_CS_1
 cd caesar-cipher-web
 ```
 
